@@ -1,7 +1,9 @@
-### Hi there 👋
+<p align="center">
+  <img align="center" src=https://user-images.githubusercontent.com/46363213/89594930-101e9880-d808-11ea-99f3-8443f2ff83fc.gif>
+</p>
 
 <!--
-**joeyshi12/joeyshi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
