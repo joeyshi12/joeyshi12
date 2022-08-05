@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/46363213/89598472-c3d85600-d811-11ea-9820-082791f097af.gif" width=100%>
+  <img src="./images/chaos_equation.gif" width=100%>
 </p>
 
 <!--
