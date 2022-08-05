@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/chaos_equation.gif" width=100%>
+  <img src="./images/cool_equations.gif" width=100%>
 </p>
 
 <!--
